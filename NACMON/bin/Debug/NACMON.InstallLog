@@ -1,0 +1,13 @@
+﻿Instalando o assembly 'C:\Midiavox\Projetos\Estágio3\NACMON\NACMON\bin\Debug\NACMON.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Midiavox\Projetos\Estágio3\NACMON\NACMON\bin\Debug\NACMON.InstallLog
+   assemblypath = C:\Midiavox\Projetos\Estágio3\NACMON\NACMON\bin\Debug\NACMON.exe
+Instalando o serviço Nacmon...
+Serviço Nacmon foi instalado com êxito.
+Criando a origem de EventLog Nacmon no log Application...
+Confirmando o assembly 'C:\Midiavox\Projetos\Estágio3\NACMON\NACMON\bin\Debug\NACMON.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Midiavox\Projetos\Estágio3\NACMON\NACMON\bin\Debug\NACMON.InstallLog
+   assemblypath = C:\Midiavox\Projetos\Estágio3\NACMON\NACMON\bin\Debug\NACMON.exe
